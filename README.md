@@ -6,6 +6,10 @@ Yerzhan Assulan and Issatai Sultanbi
 
 This Arduino sketch is designed for a 2-wheeled robot equipped with a GPS module, bluetooth module, compass sensor, DHT11 temperature and humidity sensor, MQ135 air quality sensor, and a capacitive soil moisture sensor. The code allows the robot to navigate to a specified GPS waypoint, stop at the waypoint, lower a servo motor to 90 degrees, and log data from the various sensors.
 
+| Software |
+| ------------- |
+| ![Software](https://github.com/MrZapTM/Infomatrix_SGIMS_project-code/tree/main/docs/images/Software image.jpeg) |
+
 ## Table of Contents
 
 - [Hardware Setup](#hardware-setup)
