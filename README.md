@@ -1,14 +1,20 @@
 # Authors 
 
-Yerzhan Assulan and Issatai Sultanbi
+Yerzhan Assulan and Issatay Sultanbi
 
-# SGIMS arduino robot code
+# SGIMS project
 
 This Arduino sketch is designed for a 2-wheeled robot equipped with a GPS module, bluetooth module, compass sensor, DHT11 temperature and humidity sensor, MQ135 air quality sensor, and a capacitive soil moisture sensor. The code allows the robot to navigate to a specified GPS waypoint, stop at the waypoint, lower a servo motor to 90 degrees, and log data from the various sensors.
 
+Software contains the following features:
+
+- Analysis using machine learning algorithms.
+- Visualization of data in graphs and charts.
+- Notifying city services in critical situations.
+
 | Software |
-| ------------- |
-| ![Software](https://github.com/MrZapTM/Infomatrix_SGIMS_project-code/tree/main/docs/images/Software/image.jpeg) |
+| -------------  |
+| ![Software](https://github.com/MrZapTM/Infomatrix_SGIMS_project-code/blob/main/images/software_image.jpeg) |
 
 ## Table of Contents
 
