@@ -1,0 +1,159 @@
+header {
+  height: 80px;
+  display: inline-flex;
+  background-color: #acd1ec;
+  align-items: center;
+  padding-right: 50px;
+  padding-left: 50px;
+  position: relative;
+  white-space: nowrap;
+}
+h1 {
+  font-size: 1.5rem;
+  color: #157ecb;
+}
+.container {
+
+  display: inline-flex;
+  flex-direction: column;
+}
+.menu {
+  background-color: #2a2a2a;
+  height: calc(100vh - 80px);
+}
+.datatable{
+  height: 100vh;
+  display: inline-flex;
+  width: 100%;
+  background-color: #363636;
+  position: relative;
+}
+.asulandaun {
+  display: flex;
+  width: 100%;
+}
+.ul {
+  display: flex;
+  flex-direction: column;
+
+  list-style-type: none;
+}
+li{
+
+}
+.menubtn {
+  background-color: #2a2a2a;
+  padding: 30px;
+  width: 100%;
+  transition: 0.1s;
+  border-radius: 0;
+  text-align: start;
+  display: flex;
+  gap: 10px;
+
+}
+.menubtn:hover{
+  background-color: #363636;
+}
+.menubtn-active {
+  background-color: #343c4d;
+}
+.additional {
+  height: 85.6px;
+  position: absolute;
+  top: 80px;
+  background-color: #5e9eda;
+  width: 10px;
+}
+.penis {
+  padding: 20px;
+
+  width: calc(100% - 40px);
+  background-color: #505050;
+}
+.niggatable {
+  list-style: none;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.penistitle {
+  color: white;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.penislocation {
+  color: #c2c2c2;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: 'Montserrat',sans-serif;
+}
+.mainInf {
+  align-items: center;
+  gap: 10px;
+  display: flex;
+
+}
+.penisSubmitTime {
+  font-weight: 400;
+  font-family: 'Montserrat',sans-serif;
+  color: #c2c2c2;
+  font-size: 1rem;
+}
+.information {
+  display: inline-flex;
+  flex-direction: column;
+
+}
+.information > h5 {
+  font-weight: 400;
+  font-family: 'Montserrat',sans-serif;
+  color: #e3e3e3;
+  font-size: 0.8rem;
+  display: inline;
+}
+.information > h6 {
+  font-weight: 600;
+  font-family: 'Montserrat',sans-serif;
+  color: #e3e3e3;
+  display: inline;
+  font-size: 1rem;
+}
+
+.condition {
+  display: inline;
+}
+.infoframe {
+  display: inline-flex;
+  gap: 220px;
+}
+.anotherframe {
+  display: flex;
+  justify-content: space-between;
+}
+.soil > h5 {
+  font-weight: 600;
+  font-family: 'Montserrat',sans-serif;
+  color: #e3e3e3;
+  display: inline;
+  font-size: 0.9rem;
+}
+.soil > h6 {
+  font-weight: 400;
+  font-family: 'Montserrat',sans-serif;
+  color: #e3e3e3;
+  font-size: 0.8rem;
+}
+.ID {
+  font-weight: 400;
+  font-family: 'Montserrat',sans-serif;
+  color: #c2c2c2;
+  font-size: 0.9rem;
+}
+.IDS {
+  display: flex;
+  justify-content: space-between;
+}
