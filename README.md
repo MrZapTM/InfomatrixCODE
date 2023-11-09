@@ -8,10 +8,10 @@ This Arduino sketch is designed for a 2-wheeled robot equipped with a GPS module
 
 ## Table of Contents
 
-- [Features](#features)
-- [Dependencies](#dependencies)
 - [Hardware Setup](#hardware-setup)
 - [Instructions](#instructions)
+- [Features](#features)
+- [Dependencies](#dependencies)
 - [Contributing](#contributing)
 
 ## Hardware Setup
