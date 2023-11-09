@@ -8,7 +8,7 @@ This Arduino sketch is designed for a 2-wheeled robot equipped with a GPS module
 
 | Software |
 | ------------- |
-| ![Software](https://github.com/MrZapTM/Infomatrix_SGIMS_project-code/tree/main/docs/images/Software image.jpeg) |
+| ![Software](https://github.com/MrZapTM/Infomatrix_SGIMS_project-code/tree/main/docs/images/Software/image.jpeg) |
 
 ## Table of Contents
 
